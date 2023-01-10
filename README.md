@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keshav!
 - I am a third-year CS specialist at the University of Toronto.
-- Interests: Cloud Computing, Artificial Intelligence
+- Interests: Artifical Intelligence, Cloud Computing
 - Courses I am taking: Programming on the Web, Databases, Principles of Computer Networks, Computability Theory, Intro to AI
 
 <!---
