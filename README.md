@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Keshav!
 - I am a third-year CS specialist at the University of Toronto.
 - Interests: Cloud Computing, Artificial Intelligence
-- Currently Learning: Django, Javascript, SQL
+- Courses I am taking: Programming on the Web, Databases, Principles of Computer Networks, Computability Theory, Intro to AI
 
 <!---
 kworathur/kworathur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
