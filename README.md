@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Keshav!
-- I am a third-year CS specialist at the University of Toronto.
-- Interests: Artifical Intelligence, Cloud Computing
-- Courses I am taking: Programming on the Web, Databases, Principles of Computer Networks, Computability Theory, Intro to AI
+# Michael DeMarco—@michaelfromyeg
 
-<!---
-kworathur/kworathur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Keshav. I'm a fourth-year undergraduate student at the [University of Toronto](https://www.utoronto.ca/), currently pursuing a H.B.Sc in Computer Science. I'm passionate about web development and using cloud computing to solve problems at scale. I'm also interested in machine learning research within the field of causal inference.  
+
+Learn more about me on my website and via my resume. 
+
+## Get in touch
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/keshav-w/) or via e-mail (keshav.worathur@mail.utoronto.ca). Always open to working on an interesting side project!
