@@ -6,4 +6,4 @@ Learn more about me on my website and via my resume.
 
 ## Get in touch
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/keshav-w/) or via e-mail (keshav.worathur@mail.utoronto.ca). I'm always open to working on interesting projects!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/keshav-w/) or via e-mail (keshav.worathur@mail.utoronto.ca). I'm always open to working on interesting projects in web development or ML!
