@@ -1,6 +1,6 @@
 # Keshav Worathur
 
-Hi, I'm Keshav. I'm a fourth-year undergraduate student at the [University of Toronto](https://web.cs.toronto.edu/), pursuing an H.B.Sc in Computer Science. My research interests are in Computer Vision (3D Perception and Analysis) and studying how AI can benefit fields such as chemistry and biology.
+Hi, I'm Keshav. I'm a fourth-year undergraduate student at the [University of Toronto](https://web.cs.toronto.edu/), pursuing an H.B.Sc in Computer Science. My research interests are in Computer Vision (3D Perception and Analysis) and studying how AI can benefit the life sciences.
 
 ## Get in touch
 
