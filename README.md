@@ -4,8 +4,12 @@
 I'm **software engineer** with over a year of professional experience working with Typescript and Python to develop test automation software and AI apps.
 
 📚 I'm currently pursuing my master's with a specialization in Machine Learning at Georgia Tech! I graduated with an HBSc in CS from the University of Toronto in 2025.
-🌱 Learning about 
+
+🌱 Learning about SaaS development
+
 ⚡️ My tech stack: Typescript (React, NextJS, Playwright), Python (PyTorch, SKLearn, Pandas)
+
+👷🏽‍♂️ Currently building a startup in the higher education space (stay tuned!)
 
 ## Get in touch
 
