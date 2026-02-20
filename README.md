@@ -1,7 +1,7 @@
 
 # Hi, I'm Keshav 
 
-I'm a **software engineer** with over a year of professional experience working with Typescript and Python to develop test automation software and ML algorithms.
+I'm a **software engineer** with over a year of professional experience working with Typescript and Python to develop test automation software and ML algorithms on protein data.
 
 📚 I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! I graduated with an HBSc in CS from the University of Toronto in 2025.
 
