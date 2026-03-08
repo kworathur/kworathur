@@ -9,8 +9,6 @@ I'm a **software engineer** with over a year of professional experience working 
 
 ⚡️ My tech stack: Typescript (React, NextJS, Playwright), Python (PyTorch, SKLearn, Pandas)
 
-👷🏽‍♂️ I'm currently building an AI tool for the college applications/financial aid space (stay tuned!)
-
 ## Get in touch
 
 <a href="https://www.linkedin.com/in/keshav-w/">
