@@ -2,7 +2,7 @@
 
 I'm a software engineer that has used code to:
 
-- save a telecom company ~80 hours monthly in regression testing time by inventing a JSON data-driven and strongly typed browser and API testing framework.
+- save a telecom company ~80 hours monthly in regression testing time by pitching a JSON data-driven and strongly typed browser and API testing framework.
 - accelerate drug discovery by training deep learning models on protein data, and subsequently visualize model prediction logic in an easy to digest manner.
   
 📚 I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! I graduated with an HBSc in CS from the University of Toronto in 2025.
