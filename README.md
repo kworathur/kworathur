@@ -1,6 +1,6 @@
 # About Me
 
-I'm Keshav and I enjoy backend development and machine learning. In the past I have used code to:
+I'm Keshav and I enjoy backend development and machine learning. I've used code to:
 
 - accelerate drug discovery with deep learning models on protein data at Gene2Lead, creating a React app (LinC Visualizer) to explain to chemists how deep learning models "think" at the molecular level.
 - eliminate ~80 hours worth of manual regression testing per month using data-driven browser and API testing frameworks at Freedom Mobile
