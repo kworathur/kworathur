@@ -4,8 +4,8 @@ I'm Keshav and I enjoy backend development and machine learning!
 
 ## My "greatest hits"
 
-- 🧬 trained convnets on **16K+ protein structures** at Gene2Lead Ltd. and developed a web app to visualize how DL models "think" at the atomic level.
-- 🤖 eliminated **~80 hours** of manual regression testing at Freedom mobile by migrating monolothic Selenium scripts to modular, strongly typed, and JSON data driven Playwright tests.
+- 🧬 trained convnets on **16K+ protein structures** at Gene2Lead Ltd. to streamline drug discovery and developed a web app to visualize how DL models "think" at the atomic level.
+- 🤖 eliminated **~80 hours** of manual testing per month at Freedom mobile by migrating monolothic Selenium scripts to modular and data driven Playwright tests in Typescript.
 
 ## What am I up to now?
 
