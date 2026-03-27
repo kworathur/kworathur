@@ -1,11 +1,15 @@
 # About Me
 
-I'm Keshav and I enjoy backend development and machine learning. I've used code to:
+I'm Keshav and I enjoy backend development and machine learning! 
 
-- accelerate drug discovery with deep learning models on protein data at Gene2Lead, creating a React app (LinC Visualizer) to explain to chemists how deep learning models "think" at the molecular level.
-- eliminate ~80 hours worth of manual regression testing per month using data-driven browser and API testing frameworks that I ideated, prototyped, and developed at Freedom Mobile
+## My "greatest hits"
 
-📚 I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! I graduated with an HBSc in CS from the University of Toronto in 2025.
+- 🧬 trained convnets on **16K+ protein structures** at Gene2Lead Ltd. and developed a web app to visualize how DL models "think" at the atomic level.
+- 🤖 eliminated **~80 hours** of manual regression testing at Freedom mobile by migrating monolothic Selenium scripts to modular, strongly typed, and JSON data driven Playwright tests.
+
+## What am I up to now?
+
+I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! 
 
 🌱 Learning about OAuth 2.0 and UI design
 
