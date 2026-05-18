@@ -5,7 +5,6 @@ I'm Keshav and I enjoy backend development and machine learning!
 ## Work I'm Proud Of
 
 - 🧬 trained convnets on **16K+ protein structures** at Gene2Lead Ltd. to find opportunities for creating life-saving drugs and developed a web app to visualize how deep learning models "see" at the atomic level.
-- 🤖 eliminated **~80 hours** of manual testing per month at Freedom mobile by migrating monolothic Selenium scripts to modular and data driven Playwright tests written in Typescript.
 
 ## What am I up to now?
 
