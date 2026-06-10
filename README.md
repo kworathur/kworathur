@@ -1,6 +1,6 @@
 # About Me
 
-I'm Keshav and I enjoy backend development and machine learning! 
+I'm Keshav, a software engineer interested in ML systems.  
 
 ## Work I'm Proud Of
 
@@ -10,9 +10,9 @@ I'm Keshav and I enjoy backend development and machine learning!
 
 I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! 
 
-🌱 Learning about OAuth 2.0 and UI design
+🌱 Learning about model serving and inference optimization
 
-⚡️ My tech stack: Typescript (React, NextJS, Playwright), Python (PyTorch, SKLearn, Pandas), PostgreSQL
+⚡️ My tech stack: Python (PyTorch, SKLearn, Pandas), Go, Terraform, PostgreSQL, Typescript (React, NextJS, Playwright), 
 
 ## Get in touch
 
