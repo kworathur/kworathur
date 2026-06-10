@@ -12,7 +12,7 @@ I'm currently pursuing my master's in Computer Science with a specialization in 
 
 🌱 Learning about model serving and inference optimization
 
-⚡️ My tech stack: Python (PyTorch, SKLearn, Pandas), Go, Terraform, PostgreSQL, Typescript (React, NextJS, Playwright), 
+⚡️ My tech stack: Python (PyTorch, SKLearn, Pandas), AWS (2 years exp./ certified solutions architect), Go, Terraform
 
 ## Get in touch
 
