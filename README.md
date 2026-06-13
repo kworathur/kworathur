@@ -5,7 +5,7 @@ I'm Keshav, a software engineer interested in energy and compute-efficient ML sy
 ## Work I'm Proud Of
 
 - 🏎️ increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues.
-- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs.
+- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs and visualizing how those convnets "see" at the atomic level.
 
 
 ## What am I up to now?
