@@ -1,10 +1,12 @@
 # About Me
 
-I'm Keshav, a software engineer interested in ML systems.  
+I'm Keshav, a software engineer interested in energy and compute-efficient ML systems.
 
 ## Work I'm Proud Of
 
-- 🧬 trained convnets on **16K+ protein structures** at Gene2Lead Ltd. to find opportunities for creating life-saving drugs and developed a web app to visualize how deep learning models "see" at the atomic level.
+- 🏎️ increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues.
+- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs.
+
 
 ## What am I up to now?
 
