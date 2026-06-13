@@ -12,7 +12,13 @@ I'm currently pursuing my master's in Computer Science with a specialization in 
 
 🌱 Learning about model serving and inference optimization
 
-⚡️ My tech stack: Python (PyTorch, SKLearn, Pandas), AWS (2 years exp./ certified solutions architect), Go, Terraform
+
+My tech stack:
+
+* Python: see [*CV-Capstone*](https://github.com/kworathur/CV-Capstone)
+* AWS: see [*pixel-party*](https://github.com/kworathur/pixel-party)
+* TypeScript: see [*quaid-backend*](https://github.com/kworathur/quaid-backend) or [*juno*](https://github.com/GTBitsOfGood/juno)
+
 
 ## Get in touch
 
