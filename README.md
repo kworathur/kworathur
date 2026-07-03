@@ -1,6 +1,6 @@
 # About Me
 
-I'm Keshav, a software engineer excited about extracting performance from production ML systems and building analytics infrastructure.
+I enjoy extracting performance from production ML systems and building analytics infrastructure.
 
 My skills:
 
