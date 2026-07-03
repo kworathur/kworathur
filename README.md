@@ -1,29 +1,25 @@
 # About Me
 
-I'm Keshav, a software engineer interested in energy and compute-efficient ML systems.
+I'm Keshav, a software engineer excited about extracting performance from production ML systems and building analytics infrastructure for AI apps.
+
+My tech stack:
+
+* AWS: see [*pixel-party*](https://github.com/kworathur/pixel-party)
+* Python (tensorflow, pandas, and sklearn): see [*CV-Capstone*](https://github.com/kworathur/CV-Capstone)
+* Docker and CI/CD tools: see [*juno*](https://github.com/GTBitsOfGood/juno) or [*quaid-backend*](https://github.com/kworathur/quaid-backend)
 
 ## Work I'm Proud Of
 
-- 🏎️ increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues.
-- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs and visualizing how those convnets "see" at the atomic level.
+- 🏎️ increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues natively.
+- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs.
 
 
 ## What am I up to now?
 
 I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! 
 
-🌱 Learning about model serving and inference optimization
-
-
-My tech stack:
-
-* Python: see [*CV-Capstone*](https://github.com/kworathur/CV-Capstone)
-* AWS: see [*pixel-party*](https://github.com/kworathur/pixel-party)
-* TypeScript: see [*quaid-backend*](https://github.com/kworathur/quaid-backend) or [*juno*](https://github.com/GTBitsOfGood/juno)
-
 
 ## Get in touch
 
-<a href="https://www.linkedin.com/in/keshav-w/">
-  <img height="50" src="https://github.com/kworathur/kworathur/blob/94766e1587d6abe52bbd4fb845bb03243a64a4b9/img/linkedin_889203.png"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/kworathur/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://kworathur.com)
