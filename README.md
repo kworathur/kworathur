@@ -6,7 +6,7 @@ My skills:
 
 * AWS: see [*pixel-party*](https://github.com/kworathur/pixel-party)
 * Python (tensorflow, pandas, and sklearn): see [*CV-Capstone*](https://github.com/kworathur/CV-Capstone)
-* Microservices and Tracing Tools: see [*juno*](https://github.com/GTBitsOfGood/juno) or [*DeathStarBench*](https://github.com/kworathur/DeathStarBench)
+* Microservices and observability tools: see [*juno*](https://github.com/GTBitsOfGood/juno) or [*DeathStarBench*](https://github.com/kworathur/DeathStarBench)
 * CI/CD tools: see  [*quaid-backend*](https://github.com/kworathur/quaid-backend)
 
 ## Work I'm Proud Of
