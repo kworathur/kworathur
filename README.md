@@ -1,6 +1,6 @@
 # About Me
 
-I enjoy extracting performance from production ML systems and building analytics infrastructure.
+I enjoy extracting performance from production ML systems. Grad student @ GT
 
 My skills:
 
@@ -11,14 +11,8 @@ My skills:
 
 ## Work I'm Proud Of
 
-- 🏎️ increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues natively.
-- 🧬 training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs.
-
-
-## What am I up to now?
-
-I'm currently pursuing my master's in Computer Science with a specialization in ML at Georgia Tech! 
-
+- increasing hourly job throughput by ~43% at Matmerize Inc. by refactoring our prediction engine to consume jobs from SQS queues natively.
+- training convnets on 16K+ protein structures at Gene2Lead Ltd. to discover therapeutic targets for drugs.
 
 ## Get in touch
 
