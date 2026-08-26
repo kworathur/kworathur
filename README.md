@@ -1,6 +1,6 @@
 # About Me
 
-I enjoy extracting performance from production ML systems. Grad student @ GT
+Grad student @ GT interested in performance engineering and inference systems.
 
 My skills:
 
