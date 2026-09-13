@@ -4,7 +4,7 @@ Grad student @ GT interested in performance engineering and inference systems. B
 
 * [juno](https://github.com/GTBitsOfGood/juno) wrote API key management endpoints that help 12+ developers build software for non-profits in Atlanta.
 * [trustgraph](https://github.com/trustgraph-ai/trustgraph) open-source RAG framework built for production. I centralized timeout configuration for the central RAG service, helping reduce timeout errors stemming from network latency spikes.
-* [DeathStarBench](https://github.com/kworathur/DeathStarBench) systems research where I benchmarked applications written in Go to find energy efficient load-balancing algorithms for datacenters.
+* [DeathStarBench](https://github.com/kworathur/DeathStarBench) systems research where I benchmarked Go-based applications to find energy efficient load-balancing algorithms for datacenters.
 * [CV-Capstone](https://github.com/kworathur/CV-Capstone) Tensorflow port of a MATLAB-based computer vision model for tumor classification + GradCAM implementation that won our team a best poster award from a field of 65+ submissions.
   
 ## Get in touch
