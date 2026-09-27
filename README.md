@@ -4,7 +4,7 @@ Grad student @ GT interested in ML inference and performance engineering. Below 
 
 ## Open Source
 
-* [trustgraph](https://github.com/trustgraph-ai/trustgraph) open-source RAG framework built for production. I centralized timeout configuration for the central RAG service [#1031](https://github.com/trustgraph-ai/trustgraph/pull/1031), helping reduce timeout errors from network latency spikes.
+* [trustgraph](https://github.com/trustgraph-ai/trustgraph/pulls?q=is%3Apr+state%3Aclosed+author%3Akworathur) open-source RAG framework built for production. I centralized timeout configuration for the central RAG service, helping reduce timeout errors from network latency spikes.
 
 ## Research
 
